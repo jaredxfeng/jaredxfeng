@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## This is Jared Feng 👋
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaredxfeng)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **jaredxfeng/jaredxfeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
