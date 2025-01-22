@@ -1,4 +1,7 @@
 ## This is Jared Feng 👋
+
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jaredxfeng&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **jaredxfeng/jaredxfeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
