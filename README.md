@@ -1,6 +1,6 @@
 ## This is Jared Feng 👋
 
-Working, fighting, laughing, and feasting, to God's glory, as God leads. 
+Don't let me be put to shame, Lord!
 
 ## Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=jaredxfeng&theme=prussian&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
