@@ -1,7 +1,5 @@
 ## This is Jared Feng 👋
 
-Don't let me be put to shame, Lord!
-
 ## Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=jaredxfeng&theme=prussian&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
 <br>
