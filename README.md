@@ -1,9 +1,9 @@
 ## This is Jared Feng 👋
 
 ## Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=jaredxfeng&theme=prussian&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=jaredxfeng&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 <br>
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jaredxfeng&hide=jupyter%20notebook&theme=prussian&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaredxfeng&hide=javascript,html,jupyter%20notebook)
 
 <!--
 **jaredxfeng/jaredxfeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
