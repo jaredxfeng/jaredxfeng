@@ -8,7 +8,7 @@ I work full-time in the Data Science & Optimization team of [Energy Toolbase](ht
 I'm learning web/full stack development for use cases like personal websites/blogs and CRUD applications. I am an avaricious reader. I seasonally teach theology classes at [my church](https://firstbaptistcalgary.com). 
 
 ## Not on the side
-Theological convictions: Christian, Reformed, Baptist, and eschatologically optimistic. I affirm the Apostles Creed, the Nicene Creed, the Athanasian Creed, and broadly affirm the [1689 London Baptist Confession of Faith](https://www.the1689confession.com/) with rare exceptions.
+Theological convictions: Christian, Reformed, Baptist, and eschatologically optimistic. I affirm the Apostles Creed, the Nicene Creed, the Athanasian Creed, and I affirm the [1689 London Baptist Confession of Faith](https://www.the1689confession.com/) with rare exceptions.
 
 ## Stats
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=jaredxfeng&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
