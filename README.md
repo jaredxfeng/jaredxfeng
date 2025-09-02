@@ -2,7 +2,7 @@
 Hi, I am the chef and the bottle washer around here. 
 
 ## Work
-I work full-time in the Data Science & Optimization team of [Energy Toolbase](https://energytoolbase.com)! Exciting stuff always happens at work.
+I work full-time in the Data Science & Optimization team of [Energy Toolbase](https://energytoolbase.com). Exciting stuff always happens at work.
 
 ## On the side
 I'm learning web/full stack development for use cases like personal websites/blogs and CRUD applications. I am an avaricious reader. I seasonally teach theology classes at [my congregation](https://firstbaptistcalgary.com). 
