@@ -5,10 +5,10 @@ Hi, I am the chef and the bottle washer around here.
 I work full-time in the Data Science & Optimization team of [Energy Toolbase](https://energytoolbase.com). Exciting stuff always happens at work.
 
 ## On the side
-I'm learning web/full stack development for use cases like personal websites/blogs and CRUD applications. I am an avaricious reader. I seasonally teach theology classes at [my congregation](https://firstbaptistcalgary.com). 
+I'm learning web/full stack development for use cases like personal websites/blogs and CRUD applications. I am an avaricious reader. I seasonally teach theology classes at [my congregation](https://firstbaptistcalgary.com). I love having honest conversations about the Christian faith, and would like to grow my knowledge in Christian apologetics. 
 
 ## Not on the side
-Theological convictions: Christian, Reformed, Baptist, and eschatologically optimistic. I affirm the Apostles Creed, the Nicene Creed, the Athanasian Creed, and I affirm the [1689 London Baptist Confession of Faith](https://www.the1689confession.com/) with rare exceptions.
+Theological convictions: Christian, Reformed, Baptist, and eschatologically optimistic. I affirm the Apostles Creed, the Nicene Creed, the Athanasian Creed, and I affirm the [1689 London Baptist Confession of Faith](https://www.the1689confession.com/) with rare exceptions. 
 
 ## Stats
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=jaredxfeng&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
