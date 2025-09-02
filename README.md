@@ -1,4 +1,14 @@
 ## This is Jared Feng 👋
+Hi, I am the chef and the bottle washer around here. 
+
+## Work
+I work full-time in the Data Science & Optimization team of [Energy Toolbase](https://energytoolbase.com)! Exciting stuff always happens at work.
+
+## On the side
+I'm learning web/full stack development for use cases like personal websites/blogs and CRUD applications. I am an avaricious reader. I seasonally teach theology classes at [my church](https://firstbaptistcalgary.com). 
+
+## Not on the side
+Theological convictions: Christian, Reformed, Calvinistic, Baptist, and eschatologically optimistic.
 
 ## Stats
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=jaredxfeng&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
