@@ -5,7 +5,11 @@ Hi, I am the chef and the bottle washer around here.
 I work full-time in the Data Science & Optimization team of [Energy Toolbase](https://energytoolbase.com). Exciting stuff always happens at work.
 
 ## On the side
-I'm learning web/full stack development for use cases like personal websites/blogs and CRUD applications. I am an avaricious reader. I seasonally teach theology classes at [my congregation](https://firstbaptistcalgary.com). I love having honest conversations about the Christian faith, and would like to grow in Christian apologetics. I currently train to get faster at running 5K.
+- I'm learning web/full stack development for use cases like personal websites/blogs and CRUD applications.
+- I am an avaricious reader, and I enjoy works like [Douglas Wilson](https://dougwils.com)'s and [G.K. Chesterton](https://en.wikipedia.org/wiki/G._K._Chesterton)'s.
+- I seasonally teach theology classes at [my congregation](https://firstbaptistcalgary.com).
+- I love having honest conversations about the Christian faith, and would like to grow in Christian apologetics.
+- I currently train to get faster at running 5K.
 
 ## Not on the side
 Theological convictions: Christian, Reformed, Baptist, and eschatologically optimistic. I affirm the Apostles Creed, the Nicene Creed (325 A.D.), the Athanasian Creed, and I affirm the [1689 London Baptist Confession of Faith](https://www.the1689confession.com/). 
