@@ -16,6 +16,7 @@ I work full-time in the Data Science & Optimization team of [Energy Toolbase](ht
 - Theological convictions: Christian, Reformed, Baptist, and eschatologically optimistic.
 - I affirm the Apostles Creed, the Nicene Creed (325 A.D.), the Athanasian Creed, and I affirm the [1689 London Baptist Confession of Faith](https://www.the1689confession.com/).
 - I exercise the convictions and affirmations above in all aspects of my life, including here on GitHub, to a max extent.
+- The principles extracted from the convictions and affirmations may not live well with GitHub's terms and conditions. If that is the case, I will loyally violate GitHub's terms.
 
 ## Stats
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=jaredxfeng&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
