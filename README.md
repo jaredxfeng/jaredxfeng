@@ -9,6 +9,7 @@ I work full-time in the Data Science & Optimization team of [Energy Toolbase](ht
 - I am an avaricious reader, and I enjoy works from [Douglas Wilson](https://dougwils.com) and [G.K. Chesterton](https://en.wikipedia.org/wiki/G._K._Chesterton) the most.
 - I seasonally teach theology classes at [First Baptist Calgary](https://firstbaptistcalgary.com), which I am a member of. I also run social media accounts, create graphics and posts, and manage the bookstore at the church.
 - I love having honest conversations about the Christian faith, and would like to grow in Christian apologetics.
+- I love singing psalms, hymns, and spiritual songs (Col. 3:16, Eph. 5:18-19), both alone and to one another in Christian fellowship.
 - I currently train to get faster at running 5K.
 
 ## Not on the side
