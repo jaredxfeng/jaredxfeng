@@ -1,5 +1,5 @@
 ## This is Jared Feng 👋
-Hi, I am the chef and the bottle washer around here. 
+Hi, I am the chef and bottle washer around here. 
 
 ## Work
 I work full-time in the Data Science & Optimization team of [Energy Toolbase](https://energytoolbase.com). Exciting stuff always happens at work.
