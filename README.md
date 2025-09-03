@@ -7,7 +7,7 @@ I work full-time in the Data Science & Optimization team of [Energy Toolbase](ht
 ## On the side
 - I'm learning web/full stack development for use cases like personal websites/blogs and CRUD applications.
 - I am an avaricious reader, and I enjoy works from [Douglas Wilson](https://dougwils.com) and [G.K. Chesterton](https://en.wikipedia.org/wiki/G._K._Chesterton) the most.
-- I seasonally teach theology classes at [my congregation](https://firstbaptistcalgary.com). I also run social media accounts, create graphics and posts, and run the bookstore for the church.
+- I seasonally teach theology classes at [my congregation](https://firstbaptistcalgary.com). I also run social media accounts, create graphics and posts, and run the bookstore at the church.
 - I love having honest conversations about the Christian faith, and would like to grow in Christian apologetics.
 - I currently train to get faster at running 5K.
 
