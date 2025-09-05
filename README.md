@@ -14,7 +14,7 @@ I work full-time in the Data Science & Optimization team of [Energy Toolbase](ht
 
 ## Not on the side
 - Theological convictions: Christian, Reformed, Baptist, and eschatologically optimistic.
-- I affirm the Apostles Creed, the Nicene Creed, the Athanasian Creed, and I affirm the [1689 London Baptist Confession of Faith](https://www.the1689confession.com/).
+- I affirm the Apostles Creed, the Nicene Creed, the Athanasian Creed, and the [1689 London Baptist Confession of Faith](https://www.the1689confession.com/).
 - I exercise the convictions and affirmations above in all aspects of my life, including here on GitHub, to a max extent.
 
 ## Stats
