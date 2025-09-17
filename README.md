@@ -17,11 +17,12 @@ I work full-time in the Data Science & Optimization team of [Energy Toolbase](ht
 - I affirm the Apostles Creed, the Nicene Creed, the Athanasian Creed, and the [1689 London Baptist Confession of Faith](https://www.the1689confession.com/).
 - I exercise the convictions and affirmations above in all aspects of life, including here on GitHub, to a max extent.
 
+<!---
 ## Stats
-<!--- [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=jaredxfeng&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) -->
+ [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=jaredxfeng&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) 
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaredxfeng&hide=jupyter%20notebook&theme=dark#gh-dark-mode-only)
-
+-->
 <!--
 **jaredxfeng/jaredxfeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
