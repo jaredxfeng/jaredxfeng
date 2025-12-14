@@ -5,12 +5,11 @@ Hi, I am the chef and bottle washer around here.
 I work full-time in the Data Science & Optimization team of [Energy Toolbase](https://energytoolbase.com).
 
 ## On the side
-- I'm learning web/full stack development for use cases like personal websites/blogs and CRUD applications.
+- I'm working on a full stack app with Next.js, React, Radix UI, Tailwind, and Prisma.
 - I am an avaricious reader, and I enjoy works by [Douglas Wilson](https://dougwils.com) and [G.K. Chesterton](https://en.wikipedia.org/wiki/G._K._Chesterton) the most.
-- I seasonally teach theology classes at [First Baptist Calgary](https://firstbaptistcalgary.com), which I am a member of. I also create social media graphics and posts for FBC, and manage the bookstore at the church.
 - I love having honest conversations about the Christian faith, and would like to grow in Christian apologetics.
 - I love singing psalms, hymns, and spiritual songs (Col. 3:16, Eph. 5:18-19), both alone and to one another in Christian fellowship.
-- I currently train to get faster at running 5K.
+- I am training to get faster at running 5K.
 
 ## Not on the side
 - Theological convictions: Christian, Reformed, Baptist, and eschatologically optimistic.
