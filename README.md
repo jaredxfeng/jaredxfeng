@@ -6,15 +6,14 @@ I work full-time in the Data Science & Optimization team of [Energy Toolbase](ht
 
 ## On the side
 - I'm working on a full stack app with Next.js, Radix UI, Tailwind, and Prisma.
-- I am an avaricious reader, and I enjoy works by [Douglas Wilson](https://dougwils.com) and [G.K. Chesterton](https://en.wikipedia.org/wiki/G._K._Chesterton) the most.
+- I am trying to be a regular reader. I mainly read theological works these days.
+- I am memorizing the book of Deuteronomy.
 - I love having honest conversations about the Christian faith, and would like to grow in Christian apologetics.
 - I love singing psalms, hymns, and spiritual songs (Col. 3:16, Eph. 5:18-19), both alone and to one another in Christian fellowship.
 - I am training to get faster at running 5K.
 
-## Not on the side
-- Theological convictions: Christian, Reformed, Baptist, and eschatologically optimistic.
-- I affirm the Apostles Creed, the Nicene Creed, the Athanasian Creed, and the [1689 London Baptist Confession of Faith](https://www.the1689confession.com/).
-- I exercise the convictions and affirmations above in all aspects of life, including here on GitHub, to a max extent.
+## Convictions
+- I affirm the Apostles Creed, the Nicene Creed, the Athanasian Creed, the Chalcedonian Defition, and the [1689 London Baptist Confession of Faith](https://www.the1689confession.com/).
 
 <!---
 ## Stats
