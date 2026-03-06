@@ -4,10 +4,7 @@ Hi, I am the chef and bottle washer around here.
 ## Work
 I work full-time in the Data Science & Optimization team of [Energy Toolbase](https://energytoolbase.com).
 
-## On the side
-- I'm working on a full stack app with Next.js, Radix UI, Tailwind, and Prisma.
-- I am trying to be a regular reader. I mainly read theological works these days.
-- I am memorizing the book of Deuteronomy.
+## Sides
 - I love having honest conversations about the Christian faith, and would like to grow in Christian apologetics.
 - I love singing psalms, hymns, and spiritual songs (Col. 3:16, Eph. 5:18-19), both alone and to one another in Christian fellowship.
 - I am training to get faster at running 5K.
