@@ -10,7 +10,7 @@ I work full-time in the Data Science & Optimization team of [Energy Toolbase](ht
 - I am training to get faster at running 5K.
 
 ## Convictions
-- I affirm the Apostles Creed, the Nicene Creed, the Athanasian Creed, the Chalcedonian Defition, and the [1689 London Baptist Confession of Faith](https://www.the1689confession.com/).
+- I affirm the Apostles Creed, the Nicene Creed, the Athanasian Creed, the Chalcedonian Definition, and the [1689 London Baptist Confession of Faith](https://www.the1689confession.com/).
 
 <!---
 ## Stats
