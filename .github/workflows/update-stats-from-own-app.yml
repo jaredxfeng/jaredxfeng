@@ -18,12 +18,12 @@ jobs:
       - name: Download GitHub Stats Card (with letter grade)
         run: |
           curl -s -o profile/stats.svg \
-            "${{ secrets.GH_STATS_APP_BASE_URL }}/api?username=jaredxfeng&theme=dracula&count_private=true&show_icons=true&cache_seconds=60"
+            "${{ secrets.GH_STATS_APP_BASE_URL }}/api?username=jaredxfeng&theme=dracula&count_private=true&show_icons=true&cache_seconds=60&secret=${{ secrets.API_SECRET }}"
 
       - name: Download Top Languages Card
         run: |
           curl -s -o profile/top-langs.svg \
-            "${{ secrets.GH_STATS_APP_BASE_URL }}/api/top-langs/?username=jaredxfeng&theme=dracula&layout=compact&langs_count=8&count_private=true&hide=html,jupyter%20notebook&cache_seconds=60"
+            "${{ secrets.GH_STATS_APP_BASE_URL }}/api/top-langs/?username=jaredxfeng&theme=dracula&layout=compact&langs_count=8&count_private=true&hide=html,jupyter%20notebook&cache_seconds=60&secret=${{ secrets.API_SECRET }}"
 
       - name: Commit & Push updated SVGs
         run: |
