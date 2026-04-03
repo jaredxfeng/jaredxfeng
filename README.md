@@ -6,17 +6,7 @@ Hi, I am the chef and bottle washer around here.
 
 I work full-time in the Data Science & Optimization team of [Energy Toolbase](https://energytoolbase.com).
 
-## Sides
-
-- I love having honest conversations about the Christian faith, and would like
-to grow in Christian apologetics.
-- I love singing psalms, hymns, and spiritual songs (Col. 3:16, Eph. 5:18-19),
-both alone and to one another in Christian fellowship.
-- I am training to get faster at running 5K.
-
 ## Convictions
-
 - I affirm the Apostles Creed, the Nicene Creed, the Athanasian Creed,
-the Chalcedonian Definition, and the [1689 London Baptist Confession of Faith](https://www.the1689confession.com/).
-
-![Top Langs](./top-langs.svg)
+the Chalcedonian Definition, the Five Solas of the Protestant Reformations,
+and the [1689 London Baptist Confession of Faith](https://www.the1689confession.com/).
