@@ -1,29 +1,40 @@
-name: Update Top Languages Card
+name: Update GitHub Readme Stats Cards
 
 on:
   schedule:
-    - cron: '0 0 * * Sun'    # runs daily at midnight
-  workflow_dispatch:       # allows manual trigger
+    - cron: '0 3 * * Sun'     # Runs daily at 3 AM UTC
+  workflow_dispatch:        # Allows manual trigger from the Actions tab
 
 jobs:
-  update-top-langs:
+  update-cards:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      - name: Generate Top Languages Card
-        uses: anuraghazra/github-readme-stats@master
+      - name: Generate Stats Card (with letter grade + private repos)
+        uses: readme-tools/github-readme-stats-action@v1
         with:
-          username: ${{ github.repository_owner }}
-          layout: compact
-          theme: dracula
-          langs_count: 8
-          output: top-langs.svg   # saves the image in your repo
+          card: stats
+          options: username=${{ github.repository_owner }}&theme=dracula&count_private=true&show_icons=true
+          path: stats.svg
+          token: ${{ secrets.PAT }}
 
-      - name: Commit & Push
+      - name: Generate Top Languages Card (private repos + dracula + hide HTML/Jupyter)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&theme=dracula&layout=compact&langs_count=8&count_private=true&hide=html,jupyter%20notebook
+          path: top-langs.svg
+          token: ${{ secrets.PAT }}
+
+      - name: Commit & Push updated SVGs
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add top-langs.svg
-          git commit -m "Update top languages card" || exit 0
+          git add stats.svg top-langs.svg
+          git commit -m "chore: update readme stats cards" || exit 0
           git push
