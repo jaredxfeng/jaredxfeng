@@ -1,0 +1,34 @@
+name: Update Stats Cards from Vercel (weekly)
+
+on:
+  schedule:
+    - cron: '0 4 * * 0'      # Every Sunday at 4 AM UTC (weekly)
+  workflow_dispatch:         # Allows manual run from Actions tab
+
+jobs:
+  fetch-cards:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout profile repo
+        uses: actions/checkout@v4
+
+      - name: Download GitHub Stats Card (with letter grade)
+        run: |
+          curl -s -o profile/stats.svg \
+            "${{ secrets.GH_STATS_APP_BASE_URL }}/api?username=jaredxfeng&theme=dracula&count_private=true&show_icons=true&cache_seconds=60"
+
+      - name: Download Top Languages Card
+        run: |
+          curl -s -o profile/top-langs.svg \
+            "${{ secrets.GH_STATS_APP_BASE_URL }}/api/top-langs/?username=jaredxfeng&theme=dracula&layout=compact&langs_count=8&count_private=true&hide=html,jupyter%20notebook&cache_seconds=60"
+
+      - name: Commit & Push updated SVGs
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/stats.svg profile/top-langs.svg
+          git commit -m "chore: update readme stats cards from Vercel" || exit 0
+          git push
