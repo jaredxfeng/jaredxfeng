@@ -19,8 +19,8 @@ and the [1689 London Baptist Confession of Faith](https://www.the1689confession.
   <img height="auto" style="flex: 1; max-width: 49%;" src="./profile/top-langs.svg" />
 </div>
 
-## More stats
-
+<details>
+<summary>More stats:</summary>
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
 
@@ -74,3 +74,4 @@ CSS                      1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
  Last Updated on 04/04/2026 05:16:02 UTC
 <!--END_SECTION:waka-->
+</details>
