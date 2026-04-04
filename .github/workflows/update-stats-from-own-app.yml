@@ -31,7 +31,7 @@ jobs:
         run: |
           curl -s -o profile/wakatime.svg \
             -H "Authorization: Bearer ${{ secrets.API_SECRET }}" \
-            "${{ secrets.GH_STATS_APP_BASE_URL }}/api/wakatime?username=jaredf&theme=dracula&layout=compact&api_domain=wakana.io&langs_count=10"
+            "${{ secrets.GH_STATS_APP_BASE_URL }}/api/wakatime?username=jaredxfeng&theme=dracula&layout=compact&api_domain=wakana.io&langs_count=10"
 
       - name: Commit & Push updated SVGs
         run: |
