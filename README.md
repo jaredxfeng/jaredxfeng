@@ -6,6 +6,9 @@ Hi, I am the chef and bottle washer around here.
 
 I work full-time in the Data Science & Optimization team of [Energy Toolbase](https://energytoolbase.com).
 
+## Tools
+- Neovim, wsl, arch linux, tmux, zsh, LLMs.
+
 ## Convictions
 
 - I affirm the Apostles Creed, the Nicene Creed, the Athanasian Creed,
