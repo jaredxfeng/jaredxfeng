@@ -15,6 +15,11 @@ I work full-time in the Data Science & Optimization team of [Energy Toolbase](ht
 the Chalcedonian Definition, the Five Solas of the Protestant Reformations,
 and the [1689 London Baptist Confession of Faith](https://www.the1689confession.com/).
 
+## Quirks
+- Nerd Font: ZedMono
+- Browser: Tabbit, or any browser with vertical tabs
+- Notetaking: torn between Notion, Obsidian, and Typora.
+
 ## Stats
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px;">
