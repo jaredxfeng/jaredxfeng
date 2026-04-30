@@ -2,7 +2,7 @@
 
 ## Work
 
-I work full-time in the Data Science & Optimization team of [Energy Toolbase](https://energytoolbase.com).
+Data scientist at [Energy Toolbase](https://energytoolbase.com).
 
 ## Tools
 - Neovim, wsl, arch linux, tmux, zsh, LLMs.
