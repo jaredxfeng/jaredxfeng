@@ -5,7 +5,7 @@
 Data scientist at [Energy Toolbase](https://energytoolbase.com).
 
 ## Tools
-Neovim, wsl, arch linux, tmux, zsh, LLMs.
+Neovim, WSL, Arch Linux, tmux, zsh, LLMs.
 
 ## Convictions
 
