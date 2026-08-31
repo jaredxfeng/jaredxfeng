@@ -14,9 +14,8 @@ the Chalcedonian Definition, the Five Solas of the Protestant Reformations,
 and the [1689 London Baptist Confession of Faith](https://www.the1689confession.com/).
 
 ## Quirks
-- Nerd Font: ZedMono (Iosevka)
-- Browser: Tabbit, or any browser with vertical tabs
-- Notetaking: torn between Notion, Obsidian, and Typora.
+- Nerd Font: JetBrains
+- Browser: Any browser with vertical tabs.
 
 ## Stats
 
