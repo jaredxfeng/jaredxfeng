@@ -5,9 +5,6 @@ I am:
 - Occasionally also a full-stack dev for different purposes;
 - Terminal junkie.
 
-## Fav Tools
-Neovim, WSL, Arch Linux, tmux, zsh, LLMs.
-
 ## Convictions
 
 I affirm the Apostles Creed, the Nicene Creed, [the Athanasian Creed](https://www.youtube.com/watch?v=SCO0g8hoHuI),
