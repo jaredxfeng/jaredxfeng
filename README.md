@@ -17,9 +17,7 @@ and the [1689 London Baptist Confession of Faith](https://www.the1689confession.
 
 ## Hall of used tools
 <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=anaconda,arch,aws,azure,bash,bun,css,docker,flask,git,githubactions,html,js,jest,latex,lua,md,matlab,neovim,nextjs,nodejs,notion,npm,obsidian,pnpm,postgres,postman,powershell,prisma,pycharm,py,pytorch,r,react,redhat,regex,sublime,supabase,sklearn,tailwind,tensorflow,ts,ubuntu,vercel,vitest,vscode,vscodium,webpack,wordpress" />
-  </a>
 </p>
 
 ## Stats
