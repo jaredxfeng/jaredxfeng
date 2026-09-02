@@ -1,8 +1,9 @@
 # This is Jared Feng 👋
 
-## Work
-
-Data scientist at [Energy Toolbase](https://energytoolbase.com).
+I am: 
+- Data scientist/researcher/ML engineer at [Energy Toolbase](https://energytoolbase.com);
+- Occasionally also a full-stack dev for different purposes;
+- Terminal junkie.
 
 ## Fav Tools
 Neovim, WSL, Arch Linux, tmux, zsh, LLMs.
@@ -16,6 +17,13 @@ and the [1689 London Baptist Confession of Faith](https://www.the1689confession.
 ## Quirks
 - Nerd Font: JetBrains
 - Browser: Any browser with vertical tabs.
+
+## Hall of used tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=anaconda,arch,aws,azure,bash,bun,css,docker,flask,git,githubactions,html,js,jest,latex,lua,md,matlab,neovim,nextjs,nginx,nodejs,notion,npm,obsidian,pnpm,postgres,postman,powershell,prisma,pycharm,py,pytorch,r,react,redhat,regex,sublime,supabase,sklearn,tailwind,tensorflow,ts,ubuntu,vercel,vitest,vscode,vscodium,webpack,wordpress" />
+  </a>
+</p>
 
 ## Stats
 
